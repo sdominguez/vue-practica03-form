@@ -1,4 +1,7 @@
 # vue-practica3
+This project sends information from the main View to a second View using a push.
+Then, the ResultView presents the information in a **v-card** and puts it into a validated form.
+There is a validation that uses **vue-sweetalert2**.
 
 ## Project setup
 ```
